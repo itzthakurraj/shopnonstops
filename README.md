@@ -1,1 +1,8 @@
-@copyright by becodemy 2023
+# dependencies
+frontend/node_modules
+backend/node_modules
+socket/node_modules
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
